@@ -7,4 +7,4 @@ compress.py
 *.exe
 dist/
 dist-1/
-Image Compressor v1/
+Image Compressor v*/
