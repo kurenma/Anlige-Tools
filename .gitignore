@@ -1,7 +1,10 @@
 build/
 assets/
 .venv/
-generated-2f5f947d17c9f18e8e0586ac18bffd6580520aabc7d26dff2aed8d9295f77e97.ico
+*.ico
 Image Compressor.spec
 compress.py
 *.exe
+dist/
+dist-1/
+Image Compressor v1/
