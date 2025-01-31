@@ -2,9 +2,13 @@ build/
 assets/
 .venv/
 *.ico
-Image Compressor.spec
+*.spec
 compress.py
 *.exe
-dist/
-dist-1/
+dist*/
 Image Compressor v*/
+Anlige Tools v*/
+detectors/
+utils/
+__pycache__
+*.patch
